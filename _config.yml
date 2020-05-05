@@ -2,10 +2,10 @@
 title: now4yreal's Blog
 SEOTitle: now4yreal's Blog
 header-img: img/home-bg.jpg
-email: 369231613@qq.com
+email: now4yreal@gmail.com
 description: "About Cyber Security | now4yreal，Binary Lover，Student | 这里是 @now4yreal 的个人博客，与你一起发现更大的世界。"
 keyword: "now4yreal, Binary Lover，Student"
-url: ""              # your host, for absolute URL
+url: "https://now4yreal.github.io/"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -59,7 +59,7 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: hux
+disqus_username: now4yreal
 
 # Netease settings
 netease_comment: false
@@ -71,8 +71,8 @@ netease_comment: false
 # ba_track_id: [your track id]
 
 # Google Analytics
-ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+ga_track_id: 'UA-165573785-1'            # Format: UA-xxxxxx-xx
+ga_domain: https://now4yreal.github.io/
 
 
 
@@ -106,4 +106,5 @@ friends: [
     #     title: "Su",
     #     href: "http://su.gallery/"
     # },{
+    }
 ]
