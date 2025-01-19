@@ -13,7 +13,7 @@ encoding: "utf-8"
 # 页面左下角显示的年份
 since: 2015
 # 源码仓库，请替换成自己的
-repository: mzlogin/mzlogin.github.io
+repository: now4yreal/now4yreal.github.io
 # 对 css 和 js 资源的 cdn 加速配置
 cdn:
     jsdelivr:
@@ -46,7 +46,7 @@ components:
         view: cate
     # 图片灯箱效果功能
     fancybox:
-        enabled: false
+        enabled: true 
 # 压缩页面内容
 compress_html:
   clippings: all
@@ -206,9 +206,9 @@ simple_jekyll_search:
 google:
     analytics_id: # G-20FLEG5Q2W
     adsense:
-        enabled: true
-        footer: true
-        sidebar: true
-        sidebar-detail: true
+        enabled: false 
+        footer: false 
+        sidebar: false
+        sidebar-detail: false
         content_header: false
         content_footer: false
